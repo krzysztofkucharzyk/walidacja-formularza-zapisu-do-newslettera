@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+form {
+    margin: 50px auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.error {
+    color: red;
+}
+
+
+
+
